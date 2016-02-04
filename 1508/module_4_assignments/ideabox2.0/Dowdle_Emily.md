@@ -82,4 +82,4 @@ This is an example of my code not being DRY. The AJAX call for each could be pul
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-Overall, I think this is a strong first-go. There are parts of my code which are not DRY and should be refactored. I would also like to split the javascript functionality into different files rather than storing everything together.
+Overall, I think this is a strong first-go. There are parts of my code which are not DRY and should be refactored. I would also like to split the javascript functionality into different files rather than storing everything together. I did not have the opportunity to implement tests using Teaspoon — something I'll prioritize during the next project.
