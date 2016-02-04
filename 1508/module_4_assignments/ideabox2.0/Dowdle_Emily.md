@@ -22,19 +22,21 @@
 [My Commits](https://github.com/emilydowdle/idea-box-javascript/commits/master)
 
 ### Provide a Screenshot of your Application
+
+It's not pretty, but it _is_ intuitive.
 ![Javascript IdeaBox](http://static1.squarespace.com/static/55d22bc9e4b04baeaff0fcf5/t/56b3820ba3360ce530d4ed8e/1454604819088/?format=2500w)
 
 ## Completion
 
 ### Were you able to complete the base functionality?
 
-* Yes (Whew!)
+Yes (Whew!)
 
 #### If not, list what functionality is missing.
 
 ### Which extensions, if any, did you complete?
 
-* Inline editing
+Inline editing
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
