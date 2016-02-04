@@ -11,7 +11,8 @@
 
 ### Provide a Screenshot of your Application
 
-It's not pretty, but it _is_ intuitive.
+**It's not pretty, but it _is_ intuitive.**
+
 ![Javascript IdeaBox](http://static1.squarespace.com/static/55d22bc9e4b04baeaff0fcf5/t/56b3820ba3360ce530d4ed8e/1454604819088/?format=2500w)
 
 ## Completion
