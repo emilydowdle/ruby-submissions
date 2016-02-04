@@ -52,7 +52,12 @@ Inline editing
 This is my third time attempting a keyup filter and I finally felt like I knew exactly what I needed to do and what each piece of code was doing.
 
 ### Link to a specific block of your code on Github that you feel not great about
+
+[Repeating Code](https://github.com/emilydowdle/idea-box-javascript/blob/master/app/assets/javascripts/home_index.js#L94-L146)
+
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+
+This is an example of my code not being DRY. The AJAX call for each could be pulled out into it's own method and called from inside the function. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
@@ -76,3 +81,5 @@ This is my third time attempting a keyup filter and I finally felt like I knew e
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+Overall, I think this is a strong first-go. There are parts of my code which are not DRY and should be refactored. I would also like to split the javascript functionality into different files rather than storing everything together.
