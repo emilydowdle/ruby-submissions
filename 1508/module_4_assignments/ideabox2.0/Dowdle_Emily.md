@@ -54,16 +54,16 @@ This is my third time attempting a keyup filter and I finally felt like I knew e
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-```Run options: --seed 34132
+    Run options: --seed 34132
 
-# Running:
+    # Running:
 
-............................
+    ............................
 
-Fabulous run in 0.497745s, 56.2536 runs/s, 351.5853 assertions/s.
+    Fabulous run in 0.497745s, 56.2536 runs/s, 351.5853 assertions/s.
 
-28 runs, 175 assertions, 0 failures, 0 errors, 0 skips
-Coverage report generated for MiniTest, Unit Tests to /Users/emilydowdle1/Dropbox/turing_work/javascript_idea_box/coverage. 102 / 105 LOC (97.14%) covered.```
+    28 runs, 175 assertions, 0 failures, 0 errors, 0 skips
+    Coverage report generated for MiniTest, Unit Tests t/Users/emilydowdle1/Dropbox/turing_work/javascript_idea_box/coverage. 102 / 105 LOC (97.14%) covered.```
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
