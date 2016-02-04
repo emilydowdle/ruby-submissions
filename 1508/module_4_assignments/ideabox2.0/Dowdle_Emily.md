@@ -45,12 +45,30 @@
 ### Link to a specific block of your code on Github that you are proud of
 #### Why were you proud of this piece of code?
 
+[Idea Search Filter](https://github.com/emilydowdle/idea-box-javascript/blob/master/app/assets/javascripts/home_index.js#L206-L220)
+
+This is my third time attempting a keyup filter and I finally felt like I knew exactly what I needed to do and what each piece of code was doing.
+
 ### Link to a specific block of your code on Github that you feel not great about
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
+```Run options: --seed 34132
+
+# Running:
+
+............................
+
+Fabulous run in 0.497745s, 56.2536 runs/s, 351.5853 assertions/s.
+
+28 runs, 175 assertions, 0 failures, 0 errors, 0 skips
+Coverage report generated for MiniTest, Unit Tests to /Users/emilydowdle1/Dropbox/turing_work/javascript_idea_box/coverage. 102 / 105 LOC (97.14%) covered.```
+
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
+* [Record Not Found ](https://github.com/emilydowdle/idea-box-javascript/blob/master/test/controllers/api/v1/ideas_controller_test.rb#L41-L48)
+* [Title Required](https://github.com/emilydowdle/idea-box-javascript/blob/master/test/controllers/api/v1/ideas_controller_test.rb#L79-L86)
 
 -----
 
